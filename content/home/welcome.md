@@ -6,7 +6,7 @@ widget: hero
 widget_id: hero-content
 headless: true
 weight: 10
-title: We Build The Algorithm
+title: Emotionless Trading
 subtitle: ""
 design:
   columns: "1"

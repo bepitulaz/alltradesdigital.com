@@ -2,7 +2,7 @@
 advanced:
   css_class: fullscreen
 widget: blank
-widget_id: recent-posts
+widget_id: right-hero
 headless: true
 weight: 30
 title: null
@@ -11,7 +11,7 @@ active: false
 design:
   columns: "1"
   background:
-    image: ""
+    image: https://embed.filekitcdn.com/e/jZHshTenByGKb68UTSufxX/343md1NFbWc1md4wD7QsTj
     image_darken: 0
     image_parallax: false
     image_position: center
